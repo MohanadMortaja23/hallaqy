@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443575910340",
+    "project_id": "salons-a61fd",
+    "storage_bucket": "salons-a61fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443575910340:android:02c60d6531060251a7ee91",
+        "android_client_info": {
+          "package_name": "com.halaqy.networkUpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443575910340-d0j0enbnv4j02ioc443nnuf8671h94hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOvOtIOVObwN22P_eaFmoGo9y1rIHSBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443575910340-d0j0enbnv4j02ioc443nnuf8671h94hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
